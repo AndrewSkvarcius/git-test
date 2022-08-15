@@ -1,4 +1,6 @@
 # git-test
 First Repository
 
-"Andrews First commit"
+"Andrews first commit"
+
+"Andrews Second"
